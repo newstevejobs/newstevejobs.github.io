@@ -1,0 +1,80 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: white;
+}
+
+h1 {
+  font-family: Bungee Shade;
+  color: black;
+  font-size: 40px;
+  padding-left: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: -20px;
+  background: #e6fdff;
+}
+
+h2 {
+  font-family: jura;
+  font-size: 20px;
+  
+}
+
+h3{
+  font-family: jura;
+  font-size: 20px;
+  
+}
+
+h4{
+  font-family: monofett; 
+  font-size: 40px;
+  margin: 0px;
+}
+
+li{
+  font-family: Jura;
+  font-size: 20px;
+  
+}
+
+.hej{
+  background: #ffd7ec;
+  padding: 15px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.hejhej{
+  background: #ffe599;
+}
+
+.hejhejhej{
+  color: #00ffaf;
+}
+
+.hejhejhej1{
+  color: black;
+  cursor: pointer;
+}
+
+
+
+a{
+  color: #ff0084;
+  text-decoration:none;
+  transition: color 300ms;
+}
+
+a:hover{
+  font-weight: 900;
+  color: #c40066;
+}
+
+.orca{
+  width: 100px;
+  height: 70px;
+}
